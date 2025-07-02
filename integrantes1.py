@@ -1,4 +1,4 @@
-integrantes = ["Fernanda Ávila", "Carlos Arriaza", "Nicolas Carrasco"]
+integrantes = ["Fernanda Ávila", "Carlos Arriaza"]
 print("Integrantes del grupo:")
 for nombre in integrantes:
     print("-", nombre)
